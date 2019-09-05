@@ -1,4 +1,4 @@
-package com.zhyyu.learn.learn.springcloud.provider2;
+package com.zhyyu.learn.springcloud.provider2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
